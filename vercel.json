@@ -1,8 +1,4 @@
 {
-    "version": 2,
-    "env": {
-        "NODE_ENV": "production"
-      },
     "builds": [
       {
         "src": "frontend/package.json",
